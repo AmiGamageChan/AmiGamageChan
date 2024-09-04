@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amigamagechan" alt="amigamagechan" /></a> </p>
 
-- 👯 I’m looking to collaborate on **backend coding**
+- 👯 I’m looking to collaborate on **Backend Coding**
 
 - 📫 How to reach me **gamageamantha@gmail.com**
 
@@ -24,6 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/AmiChan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/AmiChan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amigamagechan&show_icons=true&locale=en&layout=compact" alt="amigamagechan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amigamagechan&show_icons=true&locale=en&layout=compact" alt="amigamagechan" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amigamagechan&show_icons=true&locale=en" alt="amigamagechan" /></p>
