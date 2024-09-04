@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amantha gamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amantha gamage" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amantha-gamage-367955257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amantha gamage" height="30" width="40" /></a>
 <a href="https://fb.com/ami.gamage.69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ami.gamage.69" height="30" width="40" /></a>
 <a href="https://instagram.com/amichan6.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amichan6.9" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amantha gamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amantha gamage" height="30" width="40" /></a>
-<a href="https://discord.gg/ami_chan69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ami_chan69" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AmiG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amantha gamage" height="30" width="40" /></a>
+<a href="https://discord.com/users/472797200028794912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ami_chan69" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
