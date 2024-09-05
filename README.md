@@ -15,7 +15,6 @@ I'm a 21-year-old undergraduate with a huge love for coding
 src="https://img.shields.io/github/followers/AmiGamageChan?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a><a href="https://www.x.com/GamageAmi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/GamageAmi?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=AmiGamageChan&style=for-the-badge)<br><br>
-
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
 
