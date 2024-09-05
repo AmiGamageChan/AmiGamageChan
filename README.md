@@ -45,8 +45,7 @@ src="https://img.shields.io/twitter/follow/GamageAmi?logo=twitter&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AmiGamageChan/pythonBank-With-GUI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiGamageChan&repo=pythonBank-With-GUI&title_color=10b981&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AmiGamageChan/eshop_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiGamageChan&repo=eshop_project&title_color=10b981&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/AmiGamageChan/pythonBank-With-GUI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiGamageChan&repo=pythonBank-With-GUI&title_color=10b981&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AmiGamageChan/eshop_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AmiGamageChan&repo=eshop_project&title_color=10b981&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br/>
 ### Miscellaneous Socials
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/amichan69/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31relo55kt6bx5eorjfab5htuqsu?si=e41d6354f45a4a3f)
