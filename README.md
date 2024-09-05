@@ -12,10 +12,8 @@ I'm a 21-year-old undergraduate with a huge love for coding
 * 🤝  I'm open to collaborating on backend projects
 
 <a href="https://www.github.com/AmiGamageChan" target="_blank" rel="noreferrer">
-<img 
-  src="https://img.shields.io/github/followers/AmiGamageChan?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a><a href="https://www.instagram.com/amichan6.9" target="_blank" rel="noreferrer">
-  <img 
-    src="https://img.shields.io/twitter/follow/GamageAmi?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
+<img src="https://img.shields.io/github/followers/AmiGamageChan?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a><a href="https://www.instagram.com/amichan6.9" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/GamageAmi?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
     
 ![Profile Views](https://komarev.com/ghpvc/?username=AmiGamageChan&style=for-the-badge)<br><br>
 
