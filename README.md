@@ -13,8 +13,9 @@ I'm a 21-year-old undergraduate with a huge love for coding
 
 <a href="https://www.github.com/AmiGamageChan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AmiGamageChan?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a><a href="https://www.x.com/GamageAmi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/GamageAmi?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/twitter/follow/GamageAmi?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 
 ### Skills
 
