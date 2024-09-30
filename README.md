@@ -8,7 +8,7 @@ I'm a 21-year-old undergraduate with a huge love for coding
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [gamageamantha@gmail.com](mailto:gamageamantha@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Java right now
 * 🤝  I'm open to collaborating on backend projects
 
 <a href="https://www.github.com/AmiGamageChan" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/AmiGamageChan?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917"/></a>
